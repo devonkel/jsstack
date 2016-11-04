@@ -1,0 +1,12 @@
+{
+  "name": "jsstack",
+  "version": "1.0.0",
+  "description": "Sample Yarn/JS Stack app",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/devonkel/jsstack.git",
+    "type": "git"
+  },
+  "author": "Devon Kelly",
+  "license": "MIT"
+}
