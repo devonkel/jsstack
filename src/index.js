@@ -1,9 +1,5 @@
-const str = 'ES6';
-console.log(`Hello ${str}`);
-console.log('Testing ...');
+import Dog from './dog';
 
-const Dog = require('./dog');
-
-const toby = new Dog('Rex');
+const toby = new Dog('Toby');
 
 console.log(toby.bark());
