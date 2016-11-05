@@ -14,4 +14,4 @@ Node.JS ES6 stack in JavaScript.
 
 ## Run
 
-   yarn start
+    yarn start
